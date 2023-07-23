@@ -5,8 +5,11 @@ The objective of this project is to create a GUI based python music player from 
 To create this music player python project, you will need intermediate understanding of Python Tkinter, and basic knowledge about the Pygame and ttkwidgets libraries.
 
 Tkinter – To create the GUI for the project.
+
 Pygame.mixer – This is a pygame module that is used to load and play music.
+
 OS – To fetch the playlist of songs from the specified directories.
+
 Not all the libraries come pre-installed with Python, so you will have to run the following command to install the required libraries.
 
 [python -m pip install pygame](url)
